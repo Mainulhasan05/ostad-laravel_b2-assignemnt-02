@@ -18,4 +18,4 @@ function printFibo($n){
     }
     echo "\n";
 }
-printFibo(100);
+printFibo(10);
